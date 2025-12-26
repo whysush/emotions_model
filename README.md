@@ -1,5 +1,7 @@
 # Facial Emotion Recognition using TensorFlow and Gradio
 
+**NOTE: Now obsolete, new project made. Omitted.**
+
 This project implements a complete facial emotion recognition system trained on the FER2013 dataset using a custom Convolutional Neural Network (CNN). It supports both static image inference and real-time webcam-based emotion detection through Gradio.
 
 _(Note: .keras model not uploaded yet as it had not been saved properly during training; will upload soon.)_
